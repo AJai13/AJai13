@@ -7,7 +7,7 @@ Well, I like making people happy and look pretty, but I also love languages and 
 
 
 - 🔭 I’m currently working on studying to become a software engineer. lol
-- 🌱 I’m currently learning C, MySQL and Python.
+- 🌱 I’m currently learning C#, JavaScript and Python.
 - 👯 I’m looking to collaborate on any game related project (but only when I get better at programming).
 - 💬 Ask me about cats, animes and JRPGs.
 - 📫 How to reach me: [Twitter](https://mobile.twitter.com/_justfakeit) ..although I barely tweet anything, I regurlarly check my DMs 
