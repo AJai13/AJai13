@@ -7,9 +7,9 @@ Well, I like making people happy and look pretty, but I also love languages and 
 
 
 - 🔭 I’m currently working on studying to become a software engineer. lol
-- 🌱 I’m currently learning C#, JavaScript and Python.
+- 🌱 I’m currently learning Python and TypeScript.
 - 👯 I’m looking to collaborate on any game related project (but only when I get better at programming).
-- 💬 Ask me about cats, animes and JRPGs.
+- 💬 Ask me about cats, animes, mystery books, JRPGs and horror games.
 - 📫 How to reach me: [Twitter](https://mobile.twitter.com/_justfakeit) ..although I barely tweet anything, I regurlarly check my DMs 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No one gets my age right. I bet you can't either :sunglasses:
